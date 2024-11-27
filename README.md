@@ -1,1 +1,31 @@
-# cs12697
+java c
+ECON 425: INTERNATIONAL TRADE THEORY AND POLICY 
+ASSIGNMENT FOUR 
+Fall 2024 
+DUE TUESDAY, NOVEMBER 26, 2024, 11:59pm 
+COMPLETED ASSIGNMENTS MUST BE SUBMITTED THROUGH THE 
+ASSIGNMENTS TAB ON THE COURSE WEBSITE. 
+PLEASE SUBMIT YOUR ASSIGNMENT IN A PDF FILE.
+Justify your answers for full credit. 
+Question One Consider   a   Heckscher-Ohlin-Samuelson   model   of trade   with   two   large   countries:   Home   (H)   and   Foreign   (F);   two   goods:    electronics      (E)   and   textiles   (T)   and   two   factors   of   production:    high-   skilled   labour   (S)   and   low-skilled   labour   (L).   Country   F   is   relatively   abundant   in   low-skilled labour.   Textile   production   uses   low-skilled   labour   relatively   intensively.Let   VE    denote the ratio of low-skilled labour   to   high-skilled   labour   in   electronics;   VT      denote   the   ratio   of   low-skilled   labour   to   high-skilled   labour   in   textiles;   pE    denote   the   price   of   electronics;   pT      denote   the   price   of   textiles;    wS      denote   the   high-skilled   labour   wage;    and   wL      denote   the low-skilled   labour   wage.(1.A.) (15 points) For   this   economy   we   can   use   the   analog   of   the   relative   labour   (to   capital)   demand   and   supply   diagrams   we   used   in   class   which   here   would   be   relative   low-skilled   labour   (to   high-skilled   labour)   demand   and   supply   diagrams.   Use this type   of diagram to   demonstrate   that this model is capable of predicting that moving   from   autarky   to   trade   will   increase   the   skill   wage   gap   (wS   /wL   )   and,   therefore,   increase   inequality,   in   some   countries   but   will   decrease   the   skill   wage   gap   and, therefore, decrease   inequality,   in   other   countries.    Provide   economic   intuition to   explain   why   the   skill   wage   gap   increases   in   one   of the   countries.(1.B.) (15 points) Suppose   that   large   Country   H   imposes   a   unilateral   ad-valorem   tariff   on   its imports   and   fully   distributes   the   tariff   revenue   to   households   in   Country   H.   Assume   that   we   have   the   “normal   case”   with   regard   to   the   effects   of   the   tariff   on   goods’   price   ratios.    Assume that   the   imposition   of   the   tariff   has   the   same   qualitative   impact   on   aggregate   welfare   in   Country H   as   it   would   if   Country   H   were   small.    Draw   a   single   PPF   diagram   for   Country   H   which   depicts the   equilibrium   output   point,   the   equilibrium   aggregate   consumption   point,   and   the   aggregate   indifference   curve   for   three   different   scenarios:      (i.)      autarky,    (ii.)      free   trade,   and   (iii.)      tariff   restricted   trade.      In   your   diagram,   put   electronics   on   the   horizontal   axis   and   textiles   on   the   vertical   axis.
+Question Two This   question   concerns   the   monopolistic   competition   model   of trade   with   increasing   returns   to   scale   tha代 写ECON 425: INTERNATIONAL TRADE THEORY AND POLICY ASSIGNMENT FOUR Fall 2024C/C++
+代做程序编程语言t   we   have   studied.   The   question   is   partially   designed   to   help   students   better   understand the importance of increasing returns in production   (through fixed   costs)   in   affecting   equilibrium   variables   and   the   gains   from   trade.There   are   3   identical   large   countries.   In   each   country   there   is   a   single   industry   which   produces   different   varieties   of   a   good.    The   varieties   are   indexed   by   j      and   the   total   number   of   varieties produced   in   each   country   is   denoted   by   N   which   is   endogenous.   Note   that   N   does   not   need   to   be   an   integer.   It   is   the   same   industry   in   all   countries.
+Each   country   has   490   households.   All   households   have   the   same   utility   function   is   given   by:
+
+where   dj      is   consumption   of   variety   j   and   Nc      is   the   number   of   varieties   available   to   a   household.
+Each   household   has   one   unit   of labour   to   supply   and   labour   in   the   only   factor   of production   The   production   technology   is   the   same   for   every   variety   in   every   country   and   is   given   by:
+where   Qj    is   output   of variety j   , ℓj      is   labour   input   into the   production   of variety   j,   and   α > 0   is   the   fixed   cost   parameter.    There   is   free   entry   into   production   and   every   variety   is   produced   by only   one   firm.
+We   know   that   equilibria   will   be   characterized   by   symmetry   across   varieties   so   henceforth,   we drop   the j   subscript.
+(2.A.) (25 points) Complete   Table   1   for   the   different   autarky   and   trading   scenarios   and   for the   different   values   of α   indicated   in   the   table.
+(2.B.) (15 points) For   this   question,   use   the   results   in   Columns   1   and   2   of   Table   1.    Explain
+Table   1:   Monopolistic   Competition   Model:   Autarky   and   Trade
+
+how   an   increase   in   the   fixed   costs   of production   qualitatively   affects   d,   Q,   and   Household   Level   Utility   in   autarky.   Provide   economic   intuition   for   your   findings.(2.C.) (15 points) For   this   question,   assume   that   α = 4   and   use   the   results   in   Columns   1   and 3   of   Table   1.    Explain   how   your   results   demonstrate   that   there   is   a   scale   effect,   an   exit   effect,   and   a   pro-competitive   effect   of   trade.
+Let   us   define   a   measure   of   the   gains   from   trade   as   the   percentage   difference   in   a   household’s   utility   between   autarky   and   trade:
+(2.D.)    (15 points) For   this   question,   use   the   results   from   the   last   row   of   all   of   the   columns of   Table   1.    Calculate   the    GFT   in   a   country   when   α   =   4   and   when   α   =   16.    Provide   economic   intuition   to   explain   why   the   gains   from   trade   are   higher   in   one   case   than   in   the   other.
+
+
+
+
+         
+加QQ：99515681  WX：codinghelp  Email: 99515681@qq.com
